@@ -12,3 +12,9 @@ h3{
 ul{
     font-weight: bold;
 }
+img{
+    height: 200px;
+    width: 190px;
+    padding: 10px;
+    /* border-radius: 10px; */
+}
